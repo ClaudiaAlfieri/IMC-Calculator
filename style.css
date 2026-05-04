@@ -46,12 +46,6 @@ body {
     border-color: #1648c0;
   }
 
-  #text-muted{
-    font-size:.82rem;
-    cursor:pointer;
-    user-select:none;
-  }
-
   #resultBox {
     margin-top: 1.5rem;
   }
